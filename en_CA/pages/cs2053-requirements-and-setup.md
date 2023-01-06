@@ -6,7 +6,7 @@ This course requires you to use the Unity Editor in your course work to create g
 
 ## TL;DR
 
-- We will be using Unity LTS 2021.43.XX
+- We will be using Unity LTS 2021.3.XX
 - Visual Studio Code is strongly suggested as an editor for Windows and Mac, Rider for Linux
 - We will use GitHub for as much as possible in the class, and recommend using the GitHub Desktop for this
 
@@ -17,10 +17,10 @@ Use the links and instructions below to install the correct version of Unity.
 
 1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](uploads/images/step1new.jpg)
 2. Run and install your Unity Hub download. More instructions on installing Unity Hub or customizing your install are [here](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html).
-3. Once Unity Hub is installed, you will install the most recent LTS (Long-Term Support) version of Unity, which should be 2021.43.x (where the 'x' doesn't matter... it gets updated frequently).
+3. Once Unity Hub is installed, you will install the most recent LTS (Long-Term Support) version of Unity, which should be 2021.3.XX (where the 'x' doesn't matter... it gets updated frequently).
    1. Run Unity Hub. Click "Installs" on the left-hand menu.
    2. Click the blue "Add" button.
-   3. Select the latest official LTS Unity 2021.43.XXX (LTS) and click "Next"
+   3. Select the latest official LTS Unity 2021.3.XX (LTS) and click "Next"
    4. Next, we need to select the modules:
       - We will use **Microsoft Visual Code** as our editor, so select that option, if you don't already have it installed. It is free for Windows and Mac.
       - If you are on Linux you will need to find another editor, the only one officially supported for Unity on Linux is [Rider](https://www.jetbrains.com/rider/download/#section=linux), which is not free. However, you can get a free license from GitHub for Rider by signing up for the [GitHub Student Developer Pack](https://education.github.com/pack)
