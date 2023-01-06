@@ -15,7 +15,7 @@ This course requires you to use the Unity Editor in your course work to create g
 
 Use the links and instructions below to install the correct version of Unity.
 
-1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](uploads/images/step1new.JPG)
+1. First, download and install ***Unity Hub*** (Unity Hub is a very useful tool for downloading version of the Unity Editor and selecting your projects): [follow this link to the download page and click the button on the right for Unity Hub](https://unity3d.com/get-unity/download). ![Step 1](uploads/images/step1new.jpg)
 2. Run and install your Unity Hub download. More instructions on installing Unity Hub or customizing your install are [here](https://docs.unity3d.com/Manual/GettingStartedInstallingHub.html).
 3. Once Unity Hub is installed, you will install the most recent LTS (Long-Term Support) version of Unity, which should be 2021.43.x (where the 'x' doesn't matter... it gets updated frequently).
    1. Run Unity Hub. Click "Installs" on the left-hand menu.

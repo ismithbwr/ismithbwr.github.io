@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CS 2053 - Winter 2021
+# CS 2053 - Winter 2023
 
 <!--
   -- Default theme

@@ -2,16 +2,16 @@
 
 We will be using Git (the distributed source control tool) and GitHub (a fancy website that provides tools and hosting for Git code repositories) for completing assignments, doing your course project and doing the lab exams. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started.
 
-Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](pages/cs2053-requirements-and-setup.md).
+Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](cs2053-requirements-and-setup.md).
 
 ## Create and Register a GitHub Account
-You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://cs-2053-winter-2021.github.io/en_CA/#!pages/cs2053-requirements-and-setup.md)
+You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://forms.office.com/Pages/ResponsePage.aspx?id=0m5OJJoz80e5XORTUcGYt2DDxygrQlhCsPZcM-EPthdUMUo0M01XTU9WSkc1UlZFTk1DSUVMWFM2WC4u)
 
 When using Git we ask that you follow these instructions below carefully, and only stray from them if you know what you are doing. 
 
 ## Completing Assignments and Lab Exams
 
-Assignments and lab exams will be hosted and submitted on GitHub. You will need to follow the instructions below and we will record an example of how to do this for you during our first lab, which will be posted to our [Course Videos on Streams](https://web.microsoftstream.com/channel/8661cb6d-aa10-4b66-8ccb-fafdfd06081b). 
+Assignments and lab exams will be hosted and submitted on GitHub. You will need to follow the instructions below and we will record an example of how to do this for you during our first lab, which will be posted to our [Course Videos on Streams](https://web.microsoftstream.com/channel/6d4d8bcb-726a-4daf-84f2-27c5fb07df3d). 
 
 ## Starting a Lab Assignment or Lab Exam by Cloning a Repository
 These steps will be repeated for Lab Exams and Lab Assignments:
@@ -27,7 +27,7 @@ These steps will be repeated for Lab Exams and Lab Assignments:
 7. Once cloned your newly cloned repository should be selected in your list under "Current Repository" in GitHub Desktop. You can change your selection in that list. If you need to work with different projects.
    1. Your repos for coursework will be private and should not be shared with any other students in the class. They are accessible by the instructor and TAs.
 8. Once cloned you can open your repository in Unity. Open Unity Hub, make sure "Projects" is selected on the left hand menu, and click "Add". Navigate to the location on your computer where you cloned your repository to and click "Select Folder" on the top level directory of the project repo.
-9. Next, select the "Unity Version" for your project. It should be the latest 2019.4.xx 
+9. Next, select the "Unity Version" for your project. It should be the latest 2021.43..xx 
 10. Finally, click on your project in the list to open it.
     1.  You can complete your work as normal, following the provided instructions. 
 
