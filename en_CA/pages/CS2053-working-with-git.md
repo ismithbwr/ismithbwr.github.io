@@ -2,7 +2,7 @@
 
 We will be using Git (the distributed source control tool) and GitHub (a fancy website that provides tools and hosting for Git code repositories) for completing assignments, doing your course project and doing the lab exams. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started.
 
-Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](pages/cs2053-requirements-and-setup.md).
+Before you get started with the details in this page you should complete the steps in [Software Setup and Requirements page](cs2053-requirements-and-setup.md).
 
 ## Create and Register a GitHub Account
 You will need a GitHub Account. Please see these instructions: [To create and register your GitHub account](https://forms.office.com/Pages/ResponsePage.aspx?id=0m5OJJoz80e5XORTUcGYt2DDxygrQlhCsPZcM-EPthdUMUo0M01XTU9WSkc1UlZFTk1DSUVMWFM2WC4u)
