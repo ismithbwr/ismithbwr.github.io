@@ -23,7 +23,7 @@ See: [Grading and Dates](cs2053-grading-dates_w2023.md)
 
 ### Labs
 - **Lab Time:** Tuesday - 4:00-5:20pm
-- GWD 122
+- GWD 112
 
 ## Instructor and Contact
 - **Instructor:** Ian Smith
