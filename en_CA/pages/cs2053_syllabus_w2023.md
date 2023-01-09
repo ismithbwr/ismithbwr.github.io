@@ -19,11 +19,11 @@ See: [Grading and Dates](cs2053-grading-dates_w2023.md)
 
 ### Lectures
 - **Class Time:** MWF - 10:30 - 11:20am
-- On Teams
+- GWD 122
 
 ### Labs
 - **Lab Time:** Tuesday - 4:00-5:20pm
-- On Teams
+- GWD 122
 
 ## Instructor and Contact
 - **Instructor:** Ian Smith
