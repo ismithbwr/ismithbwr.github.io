@@ -10,6 +10,7 @@ This website is meant to act as the main source for all course related details.
 - [Grades and Dates](pages/cs2053-grading-dates_w2023.md) - listing of important dates for the course and the gradeable items and weights for calculating final grades.
 - [Setting Up Software for Development](pages/cs2053-requirements-and-setup.md) - guide for setting up your dev environment.
 - [Working with Git and GitHub](pages/CS2053-working-with-git.md) - details on the workflow for accessing and completing work using Git and GitHub.
+- [Assignments](pages/assignments/cs2053-w2023-lab-assignment-0.md) - Instructions and deliverables for assignments.
 
 ### Links to Other Course Resources
 
