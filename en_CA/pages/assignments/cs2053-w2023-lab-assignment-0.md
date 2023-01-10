@@ -13,11 +13,36 @@ The goal of first lab is to get every one acquainted with Unity and the lab envi
 
 First, you will need to initiate the project by following the GitHub invitation link, cloning it to your local computer and opening it in Unity. See [Instructions for Working with GitHub](https://ismithbwr.github.io/en_CA/#!pages/CS2053-working-with-git.md).
 
+GitHub Invitation: [Assignment 1](https://classroom.github.com/a/0UXUKSlD)
+
 Once you have opened up your project in Unity, complete the [Roll-A-Ball Tutorial](https://learn.unity.com/project/roll-a-ball). 
 
-**Note: Watch but do not complete the steps in the very first video ("Setting up the Game"), since you do this by cloning the repo from GitHub and opening it in Unity. Also, you do not need to complete the steps in the final section ("Building the Game"). Instead you will submit your project on GitHub.**
+**Note: Watch but do not complete the steps in the very first video ("Setting up the Game"), since you do this by cloning the repo from GitHub and opening it in Unity. Also, you do not need to complete the steps in the final section ("Building the Game"). Instead you will submit your project on GitHub. ALWAYS double check that your repo is pushed successfully to GitHub (open it in a browser and refresh the page), and feel free to push often**
 
-## Part 2 - Coming Soon!
+## Updates to Tutorial
+Some parts of the tutorial are slightly different due to it being recorded on a different unity version. I have noted down the differences and adjustments that I noticed when following along with Unity 2021.3.14.
+
+Part 1: Setting up the Game
+- Template is called 3D URP
+- "Layout" is under the Window tab
+- Toolbar may be in Scene window
+- Light color is under Emission->Filter
+
+Part 2: Moving the Player
+- Installing Input System Package -> Select "Unity Registry," not "All Packages"
+- Don't change Architecture under build settings (keep Intel 64-bit)
+- Intellisense in VS Code may not work:
+    - (In Unity Editor) Edit->Preferences->External Tools->External Script Editor = Visual Studio Code
+   - Close VS Code, open the script again
+
+Part 3: Moving the Camera
+- May need to explicitly declare GameObject player as public
+
+Part 5: Creating Collectibles
+- You may want to make a parent for each collectible (and put all parents under another parent class) so that it will have its axis along the world frame, making it easier to drag along the ground (whereas each pickup object has a rotated axis)
+
+
+## Lab Part 2 - Coming Soon!
 
 ### Test and Submit
 - Playtesting is an essential part of game development. Play your game... a lot. Does it work all the time? If not, see if you can fix any problems. Give your self enough time to ask questions on Teams, if you are stuck.
