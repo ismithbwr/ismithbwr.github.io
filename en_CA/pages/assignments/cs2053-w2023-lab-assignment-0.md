@@ -13,14 +13,14 @@ The goal of first lab is to get every one acquainted with Unity and the lab envi
 
 First, you will need to initiate the project by following the GitHub invitation link, cloning it to your local computer and opening it in Unity. See [Instructions for Working with GitHub](https://ismithbwr.github.io/en_CA/#!pages/CS2053-working-with-git.md).
 
-GitHub Invitation: [Assignment 1](https://classroom.github.com/a/0UXUKSlD)
+GitHub Invitation: [Assignment 1](https://classroom.github.com/a/5hHtFm4E) - This is a new link that creates the Unity project in the lab's Unity Editor version (2021.3.4f1)
 
 Once you have opened up your project in Unity, complete the [Roll-A-Ball Tutorial](https://learn.unity.com/project/roll-a-ball). 
 
 **Note: Watch but do not complete the steps in the very first video ("Setting up the Game"), since you do this by cloning the repo from GitHub and opening it in Unity. Also, you do not need to complete the steps in the final section ("Building the Game"). Instead you will submit your project on GitHub. ALWAYS double check that your repo is pushed successfully to GitHub (open it in a browser and refresh the page), and feel free to push often**
 
 ## Updates to Tutorial
-Some parts of the tutorial are slightly different due to it being recorded on a different unity version. I have noted down the differences and adjustments that I noticed when following along with Unity 2021.3.14.
+Some parts of the tutorial are slightly different due to it being recorded on a different unity version. I have noted down the differences and adjustments that I noticed when following along with Unity 2021.3.14, but these should be the same for the lab version of 2021.3.4f1.
 
 Part 1: Setting up the Game
 - Template is called 3D URP
