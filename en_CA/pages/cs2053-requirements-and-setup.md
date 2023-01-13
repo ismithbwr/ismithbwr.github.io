@@ -22,7 +22,7 @@ Use the links and instructions below to install the correct version of Unity.
    2. Click the blue "Add" button.
    3. Select the latest official LTS Unity 2021.3.XX (LTS) and click "Next"
    4. Next, we need to select the modules:
-      - We will use **Microsoft Visual Code** as our editor, so select that option, if you don't already have it installed. It is free for Windows and Mac.
+      - We will use **Microsoft Visual Studio Code** as our editor, so select that option, if you don't already have it installed. It is free for Windows and Mac.
       - If you are on Linux you will need to find another editor, the only one officially supported for Unity on Linux is [Rider](https://www.jetbrains.com/rider/download/#section=linux), which is not free. However, you can get a free license from GitHub for Rider by signing up for the [GitHub Student Developer Pack](https://education.github.com/pack)
       - You can unselect every other module. 
         - You do not need to install the documentation (it is available online).
