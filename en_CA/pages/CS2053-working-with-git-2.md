@@ -36,17 +36,6 @@ These steps will be repeated for Lab Exams and Lab Assignments:
    1. You will always have an "Initial Commit" when the repository is created from my assignment template, but this example had a text.txt file added in the "Code Version 1.0" commit. (this file is irrelevant to Unity, just an easy thing to change and see). ![Step 16](uploads/images/screenshot16b.png)
 
 
-
-4. Open GitHub Desktop and Click "File -> Clone Repository"
-5. Make sure that "GitHub.com" is selected at the top, and filter by typing in the name of your repo... For example, "Lab-Assignment-1" (without the quotes).
-6. Select your repo from the list and choose a place on your local drive to "clone it to" (i.e., download it), and click "Clone".
-7. Once cloned your newly cloned repository should be selected in your list under "Current Repository" in GitHub Desktop. You can change your selection in that list. If you need to work with different projects.
-   1. Your repos for coursework will be private and should not be shared with any other students in the class. They are accessible by the instructor and TAs.
-8. Once cloned you can open your repository in Unity. Open Unity Hub, make sure "Projects" is selected on the left hand menu, and click "Add". Navigate to the location on your computer where you cloned your repository to and click "Select Folder" on the top level directory of the project repo.
-9. Next, select the "Unity Version" for your project. It should be the latest 2021.3.xx 
-10. Finally, click on your project in the list to open it.
-    1.  You can complete your work as normal, following the provided instructions. 
-
 ## Submitting Your Lab Assignment or Lab Exam - "committing" and "pushing" your code
 
 GitHub provides you with a lot of flexibility with how you can complete your work. However, we will use it in a very simple way... and just "commit" your changes to your local repository, and "pushing" your commits to GitHub.

@@ -22,7 +22,7 @@
 [Software Setup](pages/cs2053-requirements-and-setup.md)
 [Using Git and GitHub](pages/CS2053-working-with-git.md)
 [Assignments]()
-  [Assignment 1](pages/assignments/cs2053-w2023-lab-assignment-0.md)
+  [Assignment 1](pages/assignments/cs2053-w2023-lab-assignment-1.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
