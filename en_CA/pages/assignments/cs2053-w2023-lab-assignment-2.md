@@ -36,7 +36,7 @@ Unity applications are made up of different components. If you need access to a 
  3. Use the GetComponent function (see below) to access the object
  4. See [here](http://web.archive.org/web/20190308220127/https://unitylore.com/articles/script-communication) for more info.
  
- ```csharp
+```csharp
 using UnityEngine;
  
 public class GameManager : MonoBehaviour
