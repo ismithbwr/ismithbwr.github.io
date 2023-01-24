@@ -15,6 +15,6 @@ This website is meant to act as the main source for all course related details.
 ### Links to Other Course Resources
 
 - [Course site on MS Teams](https://teams.microsoft.com/l/team/19%3aO-E2fUopHC64qMNj2z8xeIUlqKnslhA1LgsfaS6QGfU1%40thread.tacv2/conversations?groupId=ce9d916d-94ea-4b39-92d5-0843943117e9&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) - used for lectures, communications, sharing videos, slides and other files.
-- [Course site on D2L Brightspace](https://lms.unb.ca/d2l/home/207733) - used for taking tests.
+- [Course site on D2L Brightspace](https://lms.unb.ca/d2l/home/207733) - used for checking marks
 - [Course GitHub Organization](https://github.com/CS-2053-Winter-2023) - used for submitting assignments, sharing code examples, and hosting this site.
-- [Course Videos on Stream](https://web.microsoftstream.com/channel/6d4d8bcb-726a-4daf-84f2-27c5fb07df3d) - lectures, class meeting/tutorial recording, and extra how-to help videos.
+- [Course Videos on Stream](https://unbcloud.sharepoint.com/:f:/r/sites/Section_336387/Shared%20Documents/General/Lecture%20Slides?csf=1&web=1&e=lpSwac) - lectures, class meeting/tutorial recording, and extra how-to help videos.
