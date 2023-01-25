@@ -22,28 +22,28 @@
 [Software Setup](pages/cs2053-requirements-and-setup.md)
 [Using Git and GitHub](pages/CS2053-working-with-git.md)
 [Assignments]()
-  *# Lab Assignment 1
-  *[Lab Assignment 1](pages/assignments/cs2053-w2023-lab-assignment-1.md)
-  *# Lab Assignment 2
-  *[Lab Assignment 2](pages/assignments/cs2053-w2023-lab-assignment-2.md)
+  * # Lab Assignment 1
+  * [Lab Assignment 1](pages/assignments/cs2053-w2023-lab-assignment-1.md)
+  * # Lab Assignment 2
+  * [Lab Assignment 2](pages/assignments/cs2053-w2023-lab-assignment-2.md)
 [Project]()
-  *# Project Proposal
-  *[Project Proposal](pages/Project/project-proposal.md)
+  * # Project Proposal
+  * [Project Proposal](pages/Project/project-proposal.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
 
-  *# SubMenu Heading 1
-  *[SubMenu Item 1](pages/subitem1.md)
-  *[SubMenu Item 2](pages/subitem2.md)
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
   - - - -
-  *# SubMenu Heading 2
-  *[SubMenu Item 3](pages/subitem3.md)
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](pages/subitem3.md)
   - - - -
-  *# SubMenu Heading 3
-  *[SubMenu Item 3](pages/subitem3.md)
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](pages/subitem3.md)
 
 [Menu Item 2](pages/item2.md)
 

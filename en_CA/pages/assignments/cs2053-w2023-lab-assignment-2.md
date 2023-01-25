@@ -1,4 +1,5 @@
 # Lab Assignment #2: Build PacMan Tag
+## Due January 31 @5pm
 In this assignment you will gain some skills with 2D game development by creating a PacMan Tag game. In PacMan Tag, the player controls PacMan. PacMan must avoid ghosts as long as possible with out getting "tagged" by a ghost. The game starts with just one ghost that PacMan must avoid, but every five seconds another Ghost appears. Here is a demo video so you can see how the game should behave: [PacMan TagDemo](https://www.youtube.com/watch?v=dYqCVp5PObo).
 
 Click here to start [Lab Assignment 2](https://classroom.github.com/a/HBr2mP3j)
@@ -177,7 +178,7 @@ public class PacManController : MonoBehaviour
 - Click on Background in the Hierarchy and change the Sorting Layer to the newly created Background layer.
 - Run your game and confirm that PacMan is on top of the background. 
 - You may need to stretch and resize your background so that it covers the entire background of your game scene.
-  
+- You may need to change the target layer for the light source in your scene to "All"  
 
 ### 3. Create Your Ghost
  - Repeat the steps above for creating a Ghost.
