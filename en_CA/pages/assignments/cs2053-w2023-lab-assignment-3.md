@@ -1,4 +1,5 @@
 # Lab Assignment #3: Tank Shooter
+## Due: February 14 @ 5pm
 In this assignment you will practice 2D game development further, but now gaining some experience with the tilemaps and vector functionalities. Tank Shooter is a top down game, where a player controls a tank on the bottom of the map. A competing tank is on the other side of the map. 
 
 Here is a demo video so you can see how the game should behave: [Tank Shooter Demo](https://www.youtube.com/watch?v=1gH_oYgkud0)
