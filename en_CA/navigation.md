@@ -22,13 +22,18 @@
 [Software Setup](pages/cs2053-requirements-and-setup.md)
 [Using Git and GitHub](pages/CS2053-working-with-git.md)
 [Assignments]()
+
   * # Lab Assignment 1
   * [Lab Assignment 1](pages/assignments/cs2053-w2023-lab-assignment-1.md)
+  - - - -
   * # Lab Assignment 2
   * [Lab Assignment 2](pages/assignments/cs2053-w2023-lab-assignment-2.md)
+  - - - -
   * # Concept Assignment 1
   * [Concept Assignment 1](pages/assignments/concept-assn1.md)
+
 [Project]()
+
   * # Project Proposal
   * [Project Proposal](pages/Project/project-proposal.md)
 
