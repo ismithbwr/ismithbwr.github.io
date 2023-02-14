@@ -30,6 +30,8 @@
   * [Concept Assignment 1](pages/assignments/concept-assn1.md)
   - - - -
   * [Lab Assignment 3](pages/assignments/cs2053-w2023-lab-assignment-3.md)
+  - - - -
+  * [Concept Assignment 2](pages/assignments/concept-assn2.md)
 
 [Project]()
 
