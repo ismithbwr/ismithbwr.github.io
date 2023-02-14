@@ -2,7 +2,9 @@
 
 ## Due: Tuesday March 14, 2023 @5PM
 
-Answer the following questions related to chapters 5 and 6 of the textbook.
+Answer the following questions related to chapters 5 and 6 of the textbook, along with the Game Design lectures
+
+Click here to start: [Start Assignment](https://classroom.github.com/a/fxiSmjR0)
 
 Write your answers inline in this file using markdown.
 
