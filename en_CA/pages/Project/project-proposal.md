@@ -27,7 +27,7 @@ After the deadline, students who have not found a team will be randomly assigned
 
   
 ## Step 2. Project Proposal
-### Due: February 20 @ 11:59 PM (teams must be 3-4 people)
+### Due: February 22 @ 11:59 PM (teams must be 3-4 people)
 Submit the information below to the following [Project Proposal Form](https://forms.office.com/Pages/ResponsePage.aspx?id=0m5OJJoz80e5XORTUcGYt2DDxygrQlhCsPZcM-EPthdUNUxOV0FHQjFaTUxVRkNXSU9KVDUwRERYQy4u).
 
  - Title of the game
