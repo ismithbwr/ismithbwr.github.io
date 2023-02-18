@@ -36,6 +36,8 @@
 [Project]()
 
   * [Project Proposal](pages/Project/project-proposal.md)
+  - - - -
+  * [Project Repositories](pages/Project/project-repos.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
