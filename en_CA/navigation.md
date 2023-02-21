@@ -32,6 +32,8 @@
   * [Lab Assignment 3](pages/assignments/cs2053-w2023-lab-assignment-3.md)
   - - - -
   * [Concept Assignment 2](pages/assignments/concept-assn2.md)
+  - - - -
+  * [Lab Assignment 4](pages/assignments/cs2053-w2023-lab-assignment-4.md)
 
 [Project]()
 
