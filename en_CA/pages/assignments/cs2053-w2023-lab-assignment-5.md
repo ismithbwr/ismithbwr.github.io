@@ -4,8 +4,8 @@ In this lab assignment, you will gain experience with game object rotation in mu
 
 ## Due: 5pm, Tuesday, March 21, 2023
 
-## Video
-[Example video of completed assignment](https://youtu.be/gLr3AsV9kjc)
+Invite link: [Invite](https://classroom.github.com/a/qOKpf9wK)
+See video example of completed assignment on Teams
 
 ## Background
 Right-click all links and open in a new tab. Review the following materials (just for the specified parts of the larger document) before you get started:
