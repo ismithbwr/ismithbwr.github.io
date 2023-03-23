@@ -2,7 +2,7 @@
 
 ## Due: 5 pm, Tuesday April 4, 2023
 
-Answer the following questions related to chapters 9 - 12  of the textbook.
+Answer the following questions related to chapters 7 - 12  of the textbook.
 
 Create your repository with this [link](https://classroom.github.com/a/2ANQmorh).
 
