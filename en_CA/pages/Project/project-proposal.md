@@ -44,4 +44,3 @@ Submit the information below to the following [Project Proposal Form](https://fo
 The following project requirements will also be announced later in the semester but are described briefly here.
  - A short project presentation to the class.
  - An in class game demo and gameplay video.
- - A project report. A brief report describing how the requirements above were met and problems that arose during development.
